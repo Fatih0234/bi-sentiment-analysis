@@ -1,0 +1,10 @@
+Text,New Term,Sentiment
+I really like new book of that author.,i,0.67
+I really like new book of that author.,book,0.67
+I really like new book of that author.,author,0.67
+I hate new regulations about importing policies.,i,-0.75
+I hate new regulations about importing policies.,regulations,-0.75
+I hate new regulations about importing policies.,importing,-0.75
+I hate new regulations about importing policies.,policies,-0.75
+"Look at that door, it’s still open.",door,0.0
+"Look at that door, it’s still open.",open,0.0
